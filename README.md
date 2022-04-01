@@ -1,4 +1,4 @@
-# Asana-report-comment-userscripts
+# asana-report-comment-userscripts
 
 Добавьте в браузер TamperMonkey, создайте новый скрипт, скопируйте в него код из asanaReportComment.user.js.
 Теперь при активации окна комментария к задаче справа от кнопки прикрепить attachment будет кнопка Report, которая затирает неотправленный текст и вставляет шаблон отчета о выполнении таски.
