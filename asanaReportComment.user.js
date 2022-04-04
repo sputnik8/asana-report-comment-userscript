@@ -22,7 +22,7 @@ function addButton(buttons) {
 }
 
 function addComment() {
-    var text_area = document.querySelector("[aria-label='Edit comment']");
+    var text_area = document.querySelector(".ProseMirror-focused");
     clearArea(text_area);
     pasteComment(text_area);
 }
