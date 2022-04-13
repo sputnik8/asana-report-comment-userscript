@@ -34,8 +34,6 @@ function clearArea(text_area) {
 }
 
 function pasteComment(text_area) {
-    appendParagraph(text_area, "PR:", true);
-    appendParagraph(text_area, "");
     appendParagraph(text_area, "Что было сделано:", true);
     appendParagraph(text_area, "");
     appendParagraph(text_area, "Что могло быть задето:", true);
